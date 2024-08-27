@@ -1,4 +1,4 @@
-### Oiee, você chegou ao meu perfil! 🐸
+### Oiee, você chegou ao meu perfil! 🐇
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu-Li&layout=compact&theme=chartreuse-dark&show_icons=true"
 </div>
